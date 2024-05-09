@@ -1,0 +1,2 @@
+# LinQ
+Proiect retele calculatoare
